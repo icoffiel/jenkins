@@ -1,0 +1,15 @@
+cloudbees-folder
+antisamy-markup-formatter
+build-timeout
+credentials-binding
+timestamper
+ws-cleanup
+gradle
+workflow-aggregator
+github-branch-source
+pipeline-stage-view
+git
+matrix-auth
+pam-auth
+email-ext
+mailer
